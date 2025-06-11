@@ -1,0 +1,33 @@
+{
+  "name": "TipYouLater - Tip Anytime, Anywhere",
+  "short_name": "TipYouLater",
+  "description": "Send tips to your favorite restaurants, cafes, and bars even after you've left",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/tyl-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/tyl-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["food", "lifestyle", "social"],
+  "screenshots": [
+    {
+      "src": "/images/hero-background.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
